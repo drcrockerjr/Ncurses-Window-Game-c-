@@ -2,7 +2,13 @@
 
 This is an game that I created for my computer science university course.
 
+Main Topics this assignment covers:
+- Polymorphosms
+- Inheritance
+- Vectors and Vector manipulation
+- File Seperation/ Makefiles
 
+---------------------------------------------------------- GAME RULES --------------------------------------------------------------------------------
 
 How to Appease:
 - in order to not lose the game by touching the TA("T" blocks), the player("*") must collect at least one programming skill("$") and press "p" while within range of the TA. This will cause the TA to change from:
