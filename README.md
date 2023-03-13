@@ -7,8 +7,8 @@ This is an game that I created for my computer science university course.
 How to Appease:
 - in order to not lose the game by touching the TA("T" blocks), the player("*") must collect at least one programming skill("$") and press "p" while within range of the TA. This will cause the TA to change from:
 
-TTT   to   AAA
-TTT        AAA
+TTT -> AAA
+TTT -> AAA
 
 The TA will remain in this form for ten turns(ten key presses). In this form the player may touch the TA until this time passes.
 
